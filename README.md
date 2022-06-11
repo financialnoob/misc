@@ -5,3 +5,4 @@ Medium:
 4. https://medium.com/@financialnoob/introduction-to-copulas-part-1-2ccbc5373d2e
 5. https://medium.com/@financialnoob/introduction-to-copulas-part-2-9de74010ed87
 6. https://medium.com/@financialnoob/introduction-to-expectation-maximization-algorithm-e21f4d7d3efd
+7. https://medium.com/@financialnoob/expectation-maximization-for-logistic-mixture-autoregressive-lmar-model-491a04345e25
