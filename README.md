@@ -10,3 +10,4 @@ Medium:
 9. https://medium.com/@financialnoob/pricing-derivatives-with-binomial-tree-model-part-2-f3b33ab5ab42
 10. https://medium.com/@financialnoob/bayesian-analysis-of-cointegrated-time-series-b00f444a793e
 11. https://medium.com/@financialnoob/expectation-maximization-for-logistic-mixture-autoregressive-lmar-model-attempt-2-2c650d362c66
+12. https://medium.com/@financialnoob/introduction-to-partial-autoregressive-par-model-166e9837e80f
