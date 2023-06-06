@@ -11,3 +11,5 @@ Medium:
 10. https://medium.com/@financialnoob/bayesian-analysis-of-cointegrated-time-series-b00f444a793e
 11. https://medium.com/@financialnoob/expectation-maximization-for-logistic-mixture-autoregressive-lmar-model-attempt-2-2c650d362c66
 12. https://medium.com/@financialnoob/introduction-to-partial-autoregressive-par-model-166e9837e80f
+13. https://medium.com/@financialnoob/modeling-stock-prices-with-arma-model-aac2a78fd76f
+14. 
