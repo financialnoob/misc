@@ -1,3 +1,10 @@
+financialnoob.me:
+1. https://financialnoob.me/buy-on-gap-strategy-and-its-performance-over-time/
+2. https://financialnoob.me/introduction-to-state-space-models-and-kalman-filters/
+3. https://financialnoob.me/modeling-marginal-returns/
+4. https://financialnoob.me/introduction-to-copulas-part-1/
+5. https://financialnoob.me/introduction-to-copulas-part-2/
+
 Medium:
 1. https://medium.com/@financialnoob/buy-on-gap-strategy-and-its-performance-over-time-2a474a25cf2e
 2. https://medium.com/@financialnoob/introduction-to-state-space-models-and-kalman-filters-d5792f7dde0f
