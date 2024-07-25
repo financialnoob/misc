@@ -1,13 +1,3 @@
-1. https://financialnoob.me/buy-on-gap-strategy-and-its-performance-over-time/
-2. https://financialnoob.me/introduction-to-state-space-models-and-kalman-filters/
-3. https://financialnoob.me/modeling-marginal-returns/
-4. https://financialnoob.me/introduction-to-copulas-part-1/
-5. https://financialnoob.me/introduction-to-copulas-part-2/
-6. https://financialnoob.me/introduction-to-expectation-maximization-algorithm/
-7. https://financialnoob.me/expectation-maximization-for-logistic-mixture-autoregressive-lmar-model/
-8. https://financialnoob.me/pricing-derivatives-with-binomial-tree-model-part-1/
-9. https://financialnoob.me/pricing-derivatives-with-binomial-tree-model-part-2/
-10. https://financialnoob.me/bayesian-analysis-of-cointegrated-time-series/
-11. https://financialnoob.me/expectation-maximization-for-logistic-mixture-autoregressive-lmar-model-attempt-2/
-12. https://financialnoob.me/introduction-to-partial-autoregressive-par-model/
-13. https://financialnoob.me/modeling-stock-prices-with-arma-model/
+
+substack:
+1. 
