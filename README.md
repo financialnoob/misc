@@ -5,4 +5,6 @@ substack:
 3. https://financialnoob.substack.com/p/modeling-marginal-returns
 4. https://financialnoob.substack.com/p/introduction-to-copulas-part-1
 5. https://financialnoob.substack.com/p/introduction-to-copulas-part-2
-6. 
+6. https://financialnoob.substack.com/p/introduction-to-expectation-maximization
+7. https://financialnoob.substack.com/p/expectation-maximization-for-logistic
+8. 
