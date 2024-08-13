@@ -7,4 +7,6 @@ substack:
 5. https://financialnoob.substack.com/p/introduction-to-copulas-part-2
 6. https://financialnoob.substack.com/p/introduction-to-expectation-maximization
 7. https://financialnoob.substack.com/p/expectation-maximization-for-logistic
-8. 
+8. https://financialnoob.substack.com/p/pricing-derivatives-with-binomial
+9. https://financialnoob.substack.com/p/pricing-derivatives-with-binomial-9ca
+10. 
