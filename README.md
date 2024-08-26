@@ -9,4 +9,8 @@ substack:
 7. https://financialnoob.substack.com/p/expectation-maximization-for-logistic
 8. https://financialnoob.substack.com/p/pricing-derivatives-with-binomial
 9. https://financialnoob.substack.com/p/pricing-derivatives-with-binomial-9ca
-10. 
+10. https://financialnoob.substack.com/p/bayesian-analysis-of-cointegrated
+11. https://financialnoob.substack.com/p/expectation-maximization-for-logistic-73b
+12. https://financialnoob.substack.com/p/introduction-to-partial-autoregressive
+13. https://financialnoob.substack.com/p/modeling-stock-prices-with-arma-model
+14. 
